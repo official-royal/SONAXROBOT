@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ FAIRY MUSIC ❤️</b></h1>
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">FAIRY  A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/78069ca41791934184a5d.jpg" width="400"></a></p>
 
