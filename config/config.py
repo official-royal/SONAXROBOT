@@ -27,14 +27,14 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/its-star-boi/ShizukaXMusic",
+    "https://github.com/Afzal0006",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/ArnavServer/Arnav-Server")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Afzal0006")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/theupdatechannel_143")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/upporxd_07")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/supporxd_07")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
