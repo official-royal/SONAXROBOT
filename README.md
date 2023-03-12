@@ -12,7 +12,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Shizuka,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Fairy,  🤭 That is the greatest pleasure we have !
 
 
 ## Features Of Shizuka And Commands ❤️
@@ -52,7 +52,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### Only Admin Can Exicute 🥂
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -197,7 +197,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/supporxd_07"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/Fairy_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
