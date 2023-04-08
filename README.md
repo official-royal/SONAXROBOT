@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ FAIRY MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ SANA MUSIC ❤️</b></h1>
 
 <h4 align="center">FAIRY  A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/78069ca41791934184a5d.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://graph.org/file/7053b2ff49a93cb0854cb.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -12,7 +12,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Fairy,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Sana,  🤭 That is the greatest pleasure we have !
 
 
 ## Features Of Shizuka And Commands ❤️
@@ -139,7 +139,7 @@
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FAfzal0006%2FShizukaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/tosuXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 <details>
@@ -190,6 +190,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
+- [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon)
 </details>
 
 <details>
@@ -197,8 +198,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Fairy_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Sana_Supports"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/INCRICIBLE"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
