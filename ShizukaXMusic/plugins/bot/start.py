@@ -273,10 +273,10 @@ async def welcome(client, message: Message):
 @app.on_message(commandpro(["/alive", "Shizuka"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/f2aacd3b747c61fb6fb61.jpg",
+        photo=f"https://graph.org/file/7053b2ff49a93cb0854cb.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, sʜɪᴢᴜᴋᴀ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ꜰᴀʜᴀᴅ](https://t.me/Itz_Fahadxd)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🥀 ꜰᴀɪʀʏ ʜᴇʟᴘ 🥀](https://t.me/theupdatechannel_143)\n┣★ ʀᴇᴘᴏ › : [ꜰᴀɪʀʏ ʀᴇᴘᴏ](https://te.legra.ph/file/f2aacd3b747c61fb6fb61.jpg)\n┗━━━━━━━━━━━━━━━━━┛\n\n🥂 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Itz_Fahadxd) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🥀 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🥀", url=f"https://t.me/Fairy_Support")]]
+            [[InlineKeyboardButton("🥀 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🥀", url=f"https://t.me/INCRICIBLE")]]
         ),
     )
